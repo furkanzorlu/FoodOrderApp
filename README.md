@@ -1,5 +1,7 @@
 # FoodOrderApp
 Food ordering application made with Java
+#Tutorial
+
 # Features
 - Used MVVM architecture.
 - Splash Screen and animation
